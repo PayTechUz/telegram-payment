@@ -2,7 +2,7 @@
 
 Support Group - <a href="https://t.me/+bYouuOlqt1c3NmYy">Telegram</a><br>
 
-<a href="https://youtu.be/r2RO3kJVP7g">
+<a href="https://www.youtube.com/shorts/Ck_yR75HxzI">
 <img width="70%" src="./static/gif/telegram-payment-gif.gif">
 </a>
 
@@ -18,6 +18,6 @@ Support Group - <a href="https://t.me/+bYouuOlqt1c3NmYy">Telegram</a><br>
   - ```pip3 install -r requirements.txt```
 * 5 - Set your environment variables
   - ```cp conf/.env-sample .env```
-  - ```source conf/.env``
+  - ```source conf/.env```
 * 6 - Run tests and app
   - ```python3 bot.py```
