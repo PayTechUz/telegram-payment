@@ -1,4 +1,4 @@
-# Payme Implementation
+# Telegram bot payment integration
 
 Support Group - <a href="https://t.me/+bYouuOlqt1c3NmYy">Telegram</a><br>
 Youtube - <a href="https://youtube.com/shorts/Ck_yR75HxzI?si=8v9yYNYWglqfUqRF">Youtube Video</a><br>
