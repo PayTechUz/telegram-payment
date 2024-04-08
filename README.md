@@ -3,7 +3,7 @@
 Support Group - <a href="https://t.me/+bYouuOlqt1c3NmYy">Telegram</a><br>
 Youtube - <a href="https://www.youtube.com/shorts/Ck_yR75Hxz">Youtube Video</a><br>
 
-<a href="https://www.youtube.com/shorts/Ck_yR75HxzI">
+<a href="https://youtube.com/shorts/Ck_yR75HxzI?si=8v9yYNYWglqfUqRF">
 <img width="70%" src="./static/gif/telegram-payment-gif.gif">
 </a>
 
